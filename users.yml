@@ -1,0 +1,6 @@
+users:
+ - {id: 1, first_name: Никита, second_name: Шамаев, middle_name: Александрович}
+ - {id: 2, first_name: Гаврил, second_name: Гаврилов, middle_name: Гаврилович}
+ - {id: 3, first_name: Тот, second_name: Самый, middle_name: Тотсамович}
+ - {id: 4, first_name: "",second_name: "", middle_name: ""}
+ - {id: 5, first_name: Тот кого,second_name: нельзя, middle_name: называть}
